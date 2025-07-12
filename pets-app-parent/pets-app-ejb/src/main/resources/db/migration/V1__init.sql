@@ -1,0 +1,5 @@
+CREATE TABLE users (
+  username VARCHAR(50) PRIMARY KEY,
+  password VARCHAR(64)
+);
+INSERT INTO users VALUES ('admin', '5e884898da28047151d0e56f8dc6292773603d0d6aabbdd6192b3b528fa2bfb4');

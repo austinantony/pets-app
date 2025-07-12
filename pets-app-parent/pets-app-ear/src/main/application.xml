@@ -1,0 +1,5 @@
+<application xmlns="http://jakarta.ee/xml/ns/javaee" version="8">
+  <display-name>LoginAppEAR</display-name>
+  <module><ejb>login-app-ejb.jar</ejb></module>
+  <module><java>login-app-swing.jar</java></module>
+</application>
